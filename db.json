@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "rachna",
+      "email": "rachna1@gmail.com",
+      "phone": "2233445566",
+      "website": "rachna@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "rashmika",
+      "email": "rashmika@gmail.com",
+      "phone": "2233445566",
+      "website": "rashmika@gmail.com"
+    },
+    {
+      "id": 5,
+      "name": "ramika",
+      "email": "ramika@gmail.com",
+      "phone": "2233445566",
+      "website": "ramika@gmail.com"
+    },
+    {
+      "name": "Roshni Raikwar",
+      "email": "roshni.raikwar@techiegent.com",
+      "phone": "6261439001",
+      "website": "rose@gamil.com",
+      "id": 6
+    },
+    {
+      "name": "Audacious",
+      "email": "raj.yadav@techiegent.co",
+      "phone": "2233445566",
+      "website": "rose@gmail.com",
+      "id": 7
+    }
+  ]
+}

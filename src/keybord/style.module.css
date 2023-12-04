@@ -1,0 +1,41 @@
+.container {
+    margin: 0 auto;
+    min-height: 400px;
+    width: 400px;
+    margin-top: 10%;
+    border: 30px solid rgb(212, 157, 157);
+    background-color: white;
+}
+
+
+.textWrapper {
+    background-color: white;
+    margin: 0px auto;
+    padding: 20px 0;
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+    margin: 5px 0;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-size: 3rem;
+    text-transform: uppercase;
+    height: 75px;
+    width: 100%;
+
+}
+
+.bold {
+    font-weight: bold;
+    width: 80%;
+}
